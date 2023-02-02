@@ -1,0 +1,1 @@
+## JAVASCRIPT EXERCISES (Vanilla - ES6)
